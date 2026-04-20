@@ -1,4 +1,4 @@
-# 🔥 RLD - Rate Limit Detector
+# 🔥 ThrottleX - Rate Limit Detector
 
 A Bash-based tool to detect rate limiting and throttling behavior in web applications.
 
