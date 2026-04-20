@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# RLD - Clean Stable Version
+# 🔥 ThrottleX - Rate Limit Detector
 
 if [ -z "$1" ]; then
 echo "Usage:"
